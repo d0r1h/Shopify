@@ -1,3 +1,11 @@
+
+## Question 1 [Data Analysis]
+
+For Quesion one check this [notebook](https://github.com/d0r1h/Shopify/blob/main/Question1.ipynb)
+
+
+## Question 2 [SQL]
+
 Question1: How many orders were shipped by Speedy Express in total?
 
 ```sql
